@@ -1,0 +1,5 @@
+golang-github-nfnt-resize (0.0~git20160724.0.891127d-1) unstable; urgency=medium
+
+  * Initial release (Closes: #840904)
+
+ -- Alexandre Viau <aviau@debian.org>  Sat, 15 Oct 2016 20:07:52 -0400
